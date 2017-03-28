@@ -1,0 +1,165 @@
+echo "out" > /sys/class/gpio/gpio17/direction
+echo "1" > /sys/class/gpio/gpio17/value
+echo "0" > /sys/class/gpio/gpio17/value
+echo "1" > /sys/class/gpio/gpio17/value
+echo "0" > /sys/class/gpio/gpio17/value
+echo "1" > /sys/class/gpio/gpio17/value
+echo "1" > /sys/class/gpio/gpio17/value
+echo "1" > /sys/class/gpio/gpio17/value
+echo "0" > /sys/class/gpio/gpio17/value
+echo "1" > /sys/class/gpio/gpio17/value
+update-rc.d power-button defaults
+/etc/init.d/power-button start
+/etc/init.d/power-button stop
+/etc/init.d/power-button start
+initctl reload-configuration
+start power-button
+mv power-button.conf ../init.d/power-button.test
+cd ../init.d/
+vi power-button 
+ls /lib/lsb/init-functions
+ls -l /lib/lsb/init-functions
+file /lib/lsb/init-functions
+cat /lib/lsb/init-functions
+sudo /etc/init.d/power-button start
+chmod a+x power-button 
+sudo /etc/init.d/power-button start
+sudo /etc/init.d/power-button status
+sudo /etc/init.d/power-button start
+sudo /etc/init.d/power-button status
+
+wget -qO - https://debian.fhem.de/archive.key | sudo apt-key add - && echo "deb https://debian.fhem.de/stable ./" | sudo tee -a /etc/apt/sources.list && sudo apt-get -y install apt-transport-https && sudo apt-get update && sudo apt-get -y install fhem
+deb
+apt-key
+ls -la
+wget https://debian.fhem.de/archive.key
+ls -l /etc/ssl/*
+ls -l /etc/ssl/certs/*
+ls -l /etc/ssl/certs/*
+ls -l /etc/ssl/certs/* | grep Geo
+ls -l /etc/ssl/certs/* | grep GeoTrust
+ls -l /etc/ssl/certs/* | grep -c GeoTrust
+ls -l /etc/ssl/certs/* | grep -c GeoTrust
+ls -l /etc/ssl/certs/* | grep -c GeoTrust
+ls -l /etc/ssl/certs/* | grep GeoTrust
+wget https://debian.fhem.de/archive.key
+wget -X https://debian.fhem.de/archive.key
+wget --help
+wget -d https://debian.fhem.de/archive.key
+wget --ca-directory=/etc/ssl https://debian.fhem.de/archive.key
+wget --ca-directory=/etc/ssl/certs/ https://debian.fhem.de/archive.key
+wget -d https://debian.fhem.de/archive.key
+wget --help
+wget --ca-directory=/etc/ssl/certs/ https://debian.fhem.de/archive.key
+wget --secure-protocol=auto  https://debian.fhem.de/archive.key
+wget https://www.google.com
+wget https://debian.fhem.de/archive.key
+cd /usr/local/share/ca-certificates/
+ls
+ls -l
+update-ca-certificates --help
+update-ca-certificates --fresh
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+update-ca-certificates --fresh
+ls
+ls
+mv GeoTrust4Hfem.pem.cer GeoTrust4Hfem.pem.crt
+mv Rapid.cer Rapid.crt
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+mv wiki.openwrt.org.cer wiki.openwrt.org.crt
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+mv UserTrust.cer UserTrust.crt
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+mv debian.fhem.de.cer debian.fhem.de.crt
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+curl https://debian.fhem.de/archive.key
+wget https://debian.fhem.de/archive.key
+curl -vvI https://debian.fhem.de/archive.key
+mv COMODO-Server-CA.cer COMODO-Server-CA.crt
+update-ca-certificates --fresh
+wget https://debian.fhem.de/archive.key
+wget --no-certificates -qO - https://debian.fhem.de/archive.key
+wget --no-certificate -qO - https://debian.fhem.de/archive.key
+wget --no-check-certificate -qO - https://debian.fhem.de/archive.key
+wget -qO - https://debian.fhem.de/archive.key | apt-key add -
+wget --no-check-certificate -qO - https://debian.fhem.de/archive.key | apt-key add -
+cat /etc/apt/sources.list
+echo "deb https://debian.fhem.de/stable ./" >> /etc/apt/sources.list
+cat /etc/apt/sources.list
+apt-get update
+vi /etc/apt/sources.list
+vi /etc/apt/sources.list
+apt-get update
+vi /etc/apt/sources.list
+apt-get update
+apt-get install apt-transport-https
+apt-get update
+cat /etc/ssl/certs/ca-certificates.crt 
+exit
+wget -qO - http://debian.fhem.de/archive.key | apt-key add -
+wget -qO - http://debian.fhem.de/archive.key > fhem.key
+cat fhem.key 
+ls -l
+cat 
+wget http://debian.fhem.de/archive.key
+man wget
+man wget
+wget --no-check-certificate http://debian.fhem.de/archive.key
+apt-key add archive.key 
+deb http://debian.fhem.de/nightly/ /
+apt-get update
+apt-get updatecat 
+cat  /etc/ssl/certs/ca-certificates.crt
+PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYq
+cat archive.key 
+less archive.key 
+apt-key
+apt-key list
+cd /usr/local/share/
+cd ca-certificates/
+ls 
+cat > howtogeek.crt
+ls -l
+sudo update-ca-certificates 
+apt-get update
+cd /etc/ssl/certs/
+ls -l
+apt-get update
+less ca-certificates.crt 
+ls
+cd ..
+cd ..
+cd ..
+cd usr/share/
+cd ../local/share/ca-certificates/
+ls
+less UserTrust.crt 
+rm UserTrust.crt 
+cat > UserTrust.crt
+sudo update-ca-certificates 
+apt-get update
+less /etc/ssl/certs/ca-certificates.crt 
+cd /usr/local/certs
+cd /usr/local/
+cd /etc/ssl/certs
+ls -l
+cat UserTrust.pem 
+openssl s_client -connect debian.fhem.de:443 -CApath /etc/ssl/certs
+openssl s_client -connect www.siemens.de:443 -CApath /etc/ssl/certs
+openssl s_client -connect www.siemens.de:443 -CApath /etc/ssl/certs | less
+openssl s_client -connect www.siemens.de:443 -CApath /etc/ssl/certs
+openssl s_client -connect debian.fhem.de:443 -CApath /etc/ssl/certs
+openssl s_client --sslv2 -connect debian.fhem.de:443 -CApath /etc/ssl/certs
+openssl s_client -ssl2 -connect debian.fhem.de:443 -CApath /etc/ssl/certs
+openssl s_client -connect debian.fhem.de:443 -ssl2 -CApath /etc/ssl/certs
+openssl -ssl2 s_client -connect debian.fhem.de:443 -ssl2 -CApath /etc/ssl/certs
+openssl s_client -connect debian.fhem.de:443  -CApath /etc/ssl/certs
+apt-get changelog openssl | grep -i ssl2
+openssl -ssl2 s_client -connect debian.fhem.de:443 -ssl3 -CApath /etc/ssl/certs
+openssl s_client -connect debian.fhem.de:443 -ssl3 -CApath /etc/ssl/certs
+exit
